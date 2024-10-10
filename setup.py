@@ -10,6 +10,6 @@ setup(
     author='Emrys-hong',
     author_email='hongpengfei.emrys@gmail.com',
     description='debugger work for both torch and normal use',
-    long_description=open('README.md').read(),
+    long_description=open('readme.md').read(),
     long_description_content_type='text/markdown'
 )

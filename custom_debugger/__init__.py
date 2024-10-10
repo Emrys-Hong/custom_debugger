@@ -1,1 +1,1 @@
-import debugger
+from .debugger import breakpoint
