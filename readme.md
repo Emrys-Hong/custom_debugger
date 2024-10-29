@@ -1,11 +1,9 @@
 ## Installation
 ```
-git clone https://github.com/Emrys-Hong/custom_debugger ~/.custom_debugger
-cd ~/.custom_debugger
-pip install -e .
+pip install git+https://github.com/Emrys-Hong/custom_debugger
 ```
 ## Usage
 ```
-import custom_debugger
+from custom_debugger import breakpoint
 breakpoint()
 ```
